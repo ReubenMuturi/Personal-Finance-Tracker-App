@@ -1,0 +1,16 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^3.0.0
+  isar: ^3.1.0  # Fast NoSQL DB
+  isar_flutter_libs: ^3.1.0
+  path_provider: ^2.1.0
+  fl_chart: ^0.68.0  # Charts
+  intl: ^0.19.0  # Date/currency formatting
+  uuid: ^4.0.0  # Unique IDs
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  isar_generator: ^3.1.0
+  build_runner: ^2.4.0
